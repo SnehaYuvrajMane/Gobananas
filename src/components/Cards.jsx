@@ -70,6 +70,7 @@ const Cards = () => {
                 display: "flex",
                 flexDirection: "column",
                 justifyContent: "center",
+                border: "1px solid grey",
               }}
             >
               <CardActionArea>
